@@ -1,3 +1,5 @@
+# SuRF : Practical Range Query Filtering with Fast Succinct Tries
+
 ## 1. Introduction
 
 ​	在数据库管理系统中查找某些关键字会导致很大的磁盘I/O开销，针对这一问题，通常会使用一个内存开销小并且常驻内存的过滤器来检测该关键字是否存。比如现在常用的bloom过滤器对判断某个key是否存在是非常高效的，其能用极少的空间（与key长度无关），极低的出错概率判断key的存在性。
