@@ -119,3 +119,7 @@
 [1] [DNS原理及其解析过程](https://www.cnblogs.com/gopark/p/8430916.html)
 
 [2] *BlockStack:A* *Global* *Naming* *and* *Storage* *System* *Secured* *by* *Blockchains*. USENIX ATC ’16
+
+[3] [Blockstack：只用一个数字ID行走区块链世界？](<https://bihu.com/article/1260288>)
+
+[4] [Blockstack：给DAPP开发者和用户的便捷桥梁？](<https://bihu.com/article/1266468>)
